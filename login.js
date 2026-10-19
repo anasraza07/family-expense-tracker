@@ -34,7 +34,7 @@ loginBtn.addEventListener("click", function () {
     }
   }
 
-  window.location.href = "./login.html"
+  window.location.href = "./family.html"
 })
 
 function displayError(message) {
